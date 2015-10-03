@@ -8,7 +8,9 @@ Xeon Phi board bring up
  - Intel® Xeon Phi™ Coprocessor 5120D [Intel Xeon Phi Datasheet](http://www.intel.com/content/dam/www/public/us/en/documents/datasheets/xeon-phi-coprocessor-datasheet.pdf)
  - Z97 mini-ITX Motherborad ???
  - PCIe x16 to x24 converter (todo)
- - Thermal solution
+
+### Thermal solution
+81 x 85 mm mount holes (3.8mm) diameter.
 
 ### PCIe x16 to x24 converter
 
