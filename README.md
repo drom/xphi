@@ -17,8 +17,8 @@ The x24 connector using only 16 of PCIe lanes, and uses ther rest of pads for +1
 So here is our plan:
 
  - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
- - Molex x24 PCIe connector
- - Power cable
+ - PCIe x24 connector (STRADDLE MOUNT) ~$12
+ - Power cable modular PSU GPU connector?
  - Soldering
 
 ## Software
