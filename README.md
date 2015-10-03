@@ -16,7 +16,7 @@ The x24 connector using only 16 of PCIe lanes, and uses ther rest of pads for +1
 
 So here is our plan:
 
- - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G)
+ - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
  - Molex x24 PCIe connector
  - Power cable
  - Soldering
