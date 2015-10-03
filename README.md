@@ -18,7 +18,7 @@ So here is our plan:
 
  - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
  - PCIe x24 connector (STRADDLE MOUNT) ~$12
- - Power cable modular PSU GPU connector?
+ - Power cable modular PSU 8-pin (+12v) GPU connector?
  - Soldering
 
 ## Software
