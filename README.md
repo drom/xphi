@@ -24,10 +24,15 @@ The x24 connector using only 16 of PCIe lanes, and uses ther rest of pads for +1
 Our plan is to modify [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
 
 #### Option 1
-Rework the converter board with PCIe x24 230 positions connector (STRADDLE MOUNT) ~$12
+ - Remove PCIe x16 connector from the extender
+ - Solder PCIe x24 230 positions connector (STRADDLE MOUNT) ~$12
+ - Solder Power cable
 
 #### Option 2
-Trim x16 connector and and one more PCIe connector (x8?) and glue them together.
+ - Trim x16 connector on the extender
+ - Trim one more x8? connector
+ - Glue second connector to the extender
+ - Solder Power cable
  
 #### Common
 Both options require power cable modular PSU 8-pin (+12v) GPU connector?
