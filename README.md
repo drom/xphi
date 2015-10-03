@@ -38,5 +38,5 @@ Our plan is to modify [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
 Both options require power cable modular PSU 8-pin (+12v) GPU connector?
 
 ## Software
- - TBD
+https://github.com/ispc/ispc
 
