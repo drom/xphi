@@ -15,12 +15,16 @@ Xeon Phi board bring up
 Phi board comes with x24 edge connector, that is not compatible with ANY reasonable (available) Motherboard.
 The x24 connector using only 16 of PCIe lanes, and uses ther rest of pads for +12V power delivery.
 
-So here is our plan:
+Our plan is to modify [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
 
- - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
- - PCIe x24 connector (STRADDLE MOUNT) ~$12
- - Power cable modular PSU 8-pin (+12v) GPU connector?
- - Soldering
+#### Option 1
+Rework the converter board with PCIe x24 230 positions connector (STRADDLE MOUNT) ~$12
+
+#### Option 2
+Trim x16 connector and and one more PCIe connector (x8?) and glue them together.
+ 
+#### Common
+Both options require power cable modular PSU 8-pin (+12v) GPU connector?
 
 ## Software
  - TBD
