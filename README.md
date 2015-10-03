@@ -21,22 +21,27 @@ Xeon Phi board bring up
 Phi board comes with x24 edge connector, that is not compatible with ANY reasonable (available) Motherboard.
 The x24 connector using only 16 of PCIe lanes, and uses ther rest of pads for +12V power delivery.
 
-Our plan is to modify [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
+Our plan is to modify 
 
 #### Option 1
+ - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
  - Remove PCIe x16 connector from the extender
  - Solder PCIe x24 230 positions connector (STRADDLE MOUNT) ~$12
  - Solder Power cable
 
 #### Option 2
+ - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
  - Trim x16 connector on the extender
  - Trim one more x8? connector
  - Glue second connector to the extender
  - Solder Power cable
- 
+
+### Option 3
+ - [PCIe Riser Card x16](http://amzn.com/B002M1DHJG) $15
+ - Rework PCIe connector to PCIe x24
+
 #### Common
 Both options require power cable modular PSU 8-pin (+12v) GPU connector?
 
 ## Software
 https://github.com/ispc/ispc
-
