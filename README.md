@@ -16,6 +16,8 @@ Xeon Phi board bring up
  - top GDDR5 radiator x 4 sides
  - back GDDR5 radiator x 4 sides
 
+![Heat Sink](https://cdn.rawgit.com/drom/xphi/master/img/heat_sink.svg)
+
 ### PCIe x16 to x24 converter
 
 Phi board comes with x24 edge connector, that is not compatible with ANY reasonable (available) Motherboard.
