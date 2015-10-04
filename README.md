@@ -24,14 +24,15 @@ The x24 connector using only 16 of PCIe lanes, and uses ther rest of pads for +1
  - PCIe x16 provides 1-82 A-B pins
  - A/B 83-87 are reserved
 
-top | sig | bot | sig |
---- | --- | --- | --- |
-B83 | ??? | A83 | NC  |
-B84 | ??? | A84 | NC  |
-B85 | PWR/GND??? | A85 | GND |
-B86 | NC  | A86 | NC  |
-B87 | NC  | A87 | NC  |
-B88-115 | +12V | A88-115 | GND |
+top | sig | botom | sig | from |
+--- | --- | ----- | --- | ---- |
+B1-82|    | A1-82 |   | from PCIe x16 |
+B83 | ??? | A83   | NC  ||
+B84 | ??? | A84   | NC  ||
+B85 | PWR/GND??? | A85 | GND ||
+B86 | NC  | A86   | NC  ||
+B87 | NC  | A87   | NC  ||
+B88-115 | +12V | A88-115 | GND ||
 
 Our plan:
 
