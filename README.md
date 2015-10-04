@@ -54,7 +54,7 @@ Our plan:
  - Rework PCIe connector to PCIe x24
 
 #### Common
-Both options require power cable modular PSU 8-pin (+12v) GPU connector?
+Both options require power cable modular PSU 2 x 8-pin (+12v) GPU connectors (2 x 150W)?
 
 ## Software
 https://github.com/ispc/ispc
