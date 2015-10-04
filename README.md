@@ -28,7 +28,7 @@ top | sig | bot | sig |
 --- | --- | --- | --- |
 B83 | ??? | A83 | NC  |
 B84 | ??? | A84 | NC  |
-B85 | ??? | A85 | GND |
+B85 | PWR/GND??? | A85 | GND |
 B86 | NC  | A86 | NC  |
 B87 | NC  | A87 | NC  |
 B88-115 | +12V | A88-115 | GND |
