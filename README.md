@@ -64,6 +64,8 @@ Both options require power cable modular PSU 2 x 8-pin (+12v) GPU connectors (2 
 
 [OpenCL](https://software.intel.com/en-us/articles/opencl-drivers#philinux)
 
+[Applications and Solutions Catalog](file:///home/drom/Downloads/XeonPhi-Catalog.pdf)
+
 https://github.com/ispc/ispc
 
 https://github.com/accre/Intel-Xeon-Phi
