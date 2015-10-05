@@ -60,9 +60,7 @@ Both options require power cable modular PSU 2 x 8-pin (+12v) GPU connectors (2 
 
 ## Software
 
-Intel MPSS (Manycore Platform Software Stack)
-
-[MPSS](https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel)
+[MPSS](https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel) - Intel MPSS (Manycore Platform Software Stack)
 
 [OpenCL](https://software.intel.com/en-us/articles/opencl-drivers#philinux)
 
