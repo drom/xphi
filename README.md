@@ -77,3 +77,5 @@ https://github.com/hfp/libxstream
 https://software.intel.com/en-us/articles/intel-and-third-party-tools-and-libraries-available-with-support-for-intelr-xeon-phitm
 
 https://github.com/arrayfire/arrayfire
+
+http://info.adtechglobal.com/blog/bid/329382/Harnessing-the-Compute-Power-of-the-Intel-Xeon-Phi-Part-2
