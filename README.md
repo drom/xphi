@@ -59,6 +59,6 @@ Our plan:
 Both options require power cable modular PSU 2 x 8-pin (+12v) GPU connectors (2 x 150W)?
 
 ## Software
-https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel
+[MPSS 3.6 Linux](https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel)
 https://github.com/pentschev/mpss-modules
 https://github.com/ispc/ispc
