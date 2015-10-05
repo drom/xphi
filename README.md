@@ -73,3 +73,5 @@ https://github.com/pentschev/mpss-modules
 https://github.com/hfp/libxstream
 
 https://software.intel.com/en-us/articles/intel-and-third-party-tools-and-libraries-available-with-support-for-intelr-xeon-phitm
+
+https://github.com/arrayfire/arrayfire
