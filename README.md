@@ -45,7 +45,7 @@ Our plan:
  - Solder Power cable
 
 #### Option 2 :+1:
- - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
+ - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7 (I received 2 extenders)
  - Trim x16 connector on the extender
  - Trim one more PCIe connector 
  - Glue second connector to the extender
