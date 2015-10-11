@@ -12,7 +12,7 @@ Xeon Phi board bring up
 ### Thermal solution
 81 x 85 mm mount holes (3.8mm) diameter.
 
- - 200W cooler for the Phi.
+ - 200W cooler for the Phi. Antec KÜHLER H2O 650 Liquid cooling system
  - top GDDR5 radiator x 4 sides
  - back GDDR5 radiator x 4 sides
 
