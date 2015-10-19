@@ -108,7 +108,10 @@ we have decided to unsolder wires, and use only hal of it.
 The problem, is that 2-side PCB was so cheap that several copper pads came-off the board.
 That made the board more or less useless.
 
-For the next attempt we ordered JET-5304 PCI Express X16 Extender.
+For the next attempt we ordered JET-5304 PCI Express X16 Extender. ($11)
+
+We are going to check it with GPU card,
+and then rework the connector x16 to x24 with extra +12V power if first step is successfull.
 
 ![extender](img/extender_small.png)
 
