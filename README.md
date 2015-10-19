@@ -94,7 +94,7 @@ Both options require power cable modular PSU 2 x 8-pin (+12v) GPU connectors (2 
 ### 2015-10-12 Build session:
 Received two [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
 
-![bottom copper](img/cable_small.jpg)
+![cable](img/cable_small.jpg)
 
 Testing with GPU card showed electrical problems.
 
@@ -109,6 +109,8 @@ The problem, is that 2-side PCB was so cheap that several copper pads came-off t
 That made the board more or less useless.
 
 For the next attempt we ordered JET-5304 PCI Express X16 Extender.
+
+![extender](img/extender_small.png)
 
 ## Software
 [MPSS](https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel) - Intel MPSS (Manycore Platform Software Stack)
