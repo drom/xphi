@@ -102,6 +102,14 @@ Found several wires in the air!
 
 Started resoldering cable.
 
+### 2015-10-17 Build session:
+After faling several attempts to resolder the extention cable,
+we have decided to unsolder wires, and use only hal of it.
+The problem, is that 2-side PCB was so cheap that several copper pads came-off the board.
+That made the board more or less useless.
+
+For the next attempt we ordered JET-5304 PCI Express X16 Extender.
+
 ## Software
 [MPSS](https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel) - Intel MPSS (Manycore Platform Software Stack)
 
