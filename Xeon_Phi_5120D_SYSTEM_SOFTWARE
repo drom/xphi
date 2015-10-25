@@ -1,4 +1,4 @@
-We have a host system with ASUS P9X79-WS motherboard.
+We have a host system with the ASUS P9X79-WS motherboard.
 
 For successful booting the BIOS should be configured to support "memory mapped I/O address ranges above 4GB".
 (see https://www.pugetsystems.com/labs/articles/Will-your-motherboard-work-with-Intel-Xeon-Phi-490/ for details)
@@ -54,5 +54,13 @@ or more detailed report:
                 CEMsk:  RxErr- BadTLP- BadDLLP- Rollover- Timeout- NonFatalErr+
                 AERCap: First Error Pointer: 00, GenCap- CGenEn- ChkCap- ChkEn-
         Kernel driver in use: mic
-  
-  
+
+Downloaded 
+MPSS-3.6 (http://registrationcenter.intel.com/irc_nas/8202/mpss-src-3.6.tar) 
+Software for Coprocessor OS (k1om)(http://registrationcenter.intel.com/irc_nas/8202/mpss-3.6-k1om.tar)
+
+(see https://software.intel.com/sites/default/files/managed/26/d6/Intel_Xeon_Phi_Quick_Start_Developers_Guide-MPSS-3.4.pdf for details))
+
+###
+Installation attempts:
+1. 'sudo apt-get install rpm2cpio'
