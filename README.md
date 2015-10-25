@@ -115,6 +115,8 @@ and then rework the connector x16 to x24 with extra +12V power if first step is 
 
 ![extender](img/extender_small.png)
 
+### 2015-10-24 Build session:
+
 ## Software
 [MPSS](https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel) - Intel MPSS (Manycore Platform Software Stack)
 
