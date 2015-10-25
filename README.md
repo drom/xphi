@@ -116,6 +116,15 @@ and then rework the connector x16 to x24 with extra +12V power if first step is 
 ![extender](img/extender_small.png)
 
 ### 2015-10-24 Build session:
+PCIe x16 riser board, PCIe x16 connector, hacksaw, superglue and ... we build extended x16 to x24 riser board.
+
+![riser top side](img/top_riser_small.jpg)
+![riser bottom side](img/bottom_riser_small.jpg)
+
+Power cable (+12V) soldered directly to the connector and has 8-pin connector compatible with EVGA Supernova PSU.
+
+### 2015-10-24 Smoke test
+My Z97 computer failed to boot with Xeon Phi board in. Xeon Phi on-board LED blinks 8Hz. Power consumption is normal. We have to try with more advanced chipset tomorrow.
 
 ## Software
 [MPSS](https://software.intel.com/en-us/articles/intel-manycore-platform-software-stack-mpss#lx36rel) - Intel MPSS (Manycore Platform Software Stack)
