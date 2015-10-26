@@ -127,4 +127,4 @@ Power cable (+12V) soldered directly to the connector and has 8-pin connector co
 My Z97 computer failed to boot with Xeon Phi board in. Xeon Phi on-board LED blinks 8Hz. Power consumption is normal. We have to try with more advanced chipset tomorrow.
 
 ### 2015-10-25 Smoke test
-Sucessfully booted in X97 computer: [ASUS P9X79-WS build](ASUS_P9X79-WS_build.md)
+Sucessfully booted in X79 computer: [ASUS P9X79-WS build](ASUS_P9X79-WS_build.md)
