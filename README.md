@@ -84,7 +84,7 @@ Our plan:
 - Glue second connector to the extender
 - Solder Power cable
 
-### ~~Option 3~~
+#### ~~Option 3~~
 - [PCIe Riser Card x16](http://amzn.com/B002M1DHJG) $15
 - Rework PCIe connector to PCIe x24
 
