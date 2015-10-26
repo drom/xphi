@@ -1,17 +1,19 @@
 We have a host system with the ASUS P9X79-WS motherboard.
 
 For successful booting the BIOS should be configured to support "memory mapped I/O address ranges above 4GB".
-[see here for details]
+
+[look here for details]
 (https://www.pugetsystems.com/labs/articles/Will-your-motherboard-work-with-Intel-Xeon-Phi-490/ f)
 
 After booting the `lspci | grep Phi` command yelds the following:
 
-```# lspci | grep Phi
+``` 
+>>lspci | grep Phi
 02:00.0 Co-processor: Intel Corporation Xeon Phi coprocessor 5100 series (rev 20)
 ```
 or more detailed report:
 ```
-# lspci -s 02:00 -vv
+>>lspci -s 02:00 -vv
 02:00.0 Co-processor: Intel Corporation Xeon Phi coprocessor 5100 series (rev 20)
         Subsystem: Intel Corporation Device d804                                 
         Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
