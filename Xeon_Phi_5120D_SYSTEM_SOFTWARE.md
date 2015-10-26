@@ -59,11 +59,13 @@ or more detailed report:
         Kernel driver in use: mic
 ```
 
-Downloaded 
-[MPSS-3.6 ](http://registrationcenter.intel.com/irc_nas/8202/mpss-src-3.6.tar) 
-[Software for Coprocessor OS (k1om)(h]ttp://registrationcenter.intel.com/irc_nas/8202/mpss-3.6-k1om.tar)
+#### Downloaded
 
-[look here for details](https://software.intel.com/sites/default/files/managed/26/d6/Intel_Xeon_Phi_Quick_Start_Developers_Guide-MPSS-3.4.pdf )
+[MPSS-3.6](http://registrationcenter.intel.com/irc_nas/8202/mpss-src-3.6.tar)
+
+[Software for Coprocessor OS (k1om)](http://registrationcenter.intel.com/irc_nas/8202/mpss-3.6-k1om.tar)
+
+[Intel Xeon Phi Quick Start Developers Guide MPSS 3.4](https://software.intel.com/sites/default/files/managed/26/d6/Intel_Xeon_Phi_Quick_Start_Developers_Guide-MPSS-3.4.pdf)
 
 ###
 Installation attempts:
