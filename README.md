@@ -71,20 +71,20 @@ B88-115 | +12V       | A88-115 | GND |               |
 
 Our plan:
 
-#### Option 1
+#### ~~Option 1~~
 - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7
 - Remove PCIe x16 connector from the extender
 - Solder PCIe x24 230 positions connector (STRADDLE MOUNT) ~$12
 - Solder Power cable
 
-#### Option 2 :+1:
+#### ~~Option 2 :+1:~~
 - [PCIe x16 extention cable](http://amzn.com/B00D79EV0G) $7 (I received 2 extenders)
 - Trim x16 connector on the extender
 - Trim one more PCIe connector
 - Glue second connector to the extender
 - Solder Power cable
 
-### Option 3
+### ~~Option 3~~
 - [PCIe Riser Card x16](http://amzn.com/B002M1DHJG) $15
 - Rework PCIe connector to PCIe x24
 
