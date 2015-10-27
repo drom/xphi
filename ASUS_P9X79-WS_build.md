@@ -113,7 +113,7 @@ Starting Intel(R) MPSS:                                    [  OK  ]
 mic0: online (mode: linux image: /usr/share/mpss/boot/bzImage-knightscorner)
 ```
 
-Manipulations with the Xeon Phi card are done via ssh layer that runs over the PCIe physical interface with the help of a virtual network driver:  `ssh mic0`
+Manipulation of the Xeon Phi card is done via the ssh layer that runs over the PCIe physical interface with the help of a virtual network driver:  `ssh mic0`
 
 There is a file system "inside the co-processor":
 
