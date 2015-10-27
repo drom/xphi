@@ -60,7 +60,7 @@ or more detailed report:
 ```
 #### OS Installation
 
-To replicate an optimal operating environment we've made a fresh insallation of Centos 6.7 and  applied all existing updates. The kernel version (`uname -r`) is 2.6.32-573.7.1.el6.x86_64, which is listed in the Intel documentation [readme](http://registrationcenter.intel.com/irc_nas/8202/readme.txt)as compatible.
+To replicate an optimal operating environment we've made a fresh insallation of Centos 6.7 and  applied all existing updates. The kernel version (`uname -r`) is 2.6.32-573.7.1.el6.x86_64, which is listed in the Intel documentation [readme](http://registrationcenter.intel.com/irc_nas/8202/readme.txt) as compatible.
 
 #### Downloads
 
