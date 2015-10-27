@@ -58,6 +58,9 @@ or more detailed report:
                 AERCap: First Error Pointer: 00, GenCap- CGenEn- ChkCap- ChkEn-
         Kernel driver in use: mic
 ```
+#### OS Installation
+
+To replicate an optimal operating environment we've made a fresh insallation of Centos 6.7 and  applied all existing updates.
 
 #### Downloaded
 
