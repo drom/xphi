@@ -62,16 +62,16 @@ or more detailed report:
 
 To replicate an optimal operating environment we've made a fresh insallation of Centos 6.7 and  applied all existing updates. The kernel version (`uname -r`) is 2.6.32-573.7.1.el6.x86_64, which is listed in the Intel documentation [readme](http://registrationcenter.intel.com/irc_nas/8202/readme.txt)as compatible.
 
-#### Downloaded
+#### Downloads
 
-[MPSS-3.6](http://registrationcenter.intel.com/irc_nas/8202/mpss-src-3.6.tar)
+[MPSS-3.6](http://registrationcenter.intel.com/irc_nas/8202/mpss-3.6-linux.tar)
 
-[Software for Coprocessor OS (k1om)](http://registrationcenter.intel.com/irc_nas/8202/mpss-3.6-k1om.tar)
+[readme](http://registrationcenter.intel.com/irc_nas/8202/readme.txt)
 
 [Intel Xeon Phi Quick Start Developers Guide MPSS 3.4](https://software.intel.com/sites/default/files/managed/26/d6/Intel_Xeon_Phi_Quick_Start_Developers_Guide-MPSS-3.4.pdf)
 
-#### Installation sequence:
-Generally following the instructions in the [readme](http://registrationcenter.intel.com/irc_nas/8202/readme.txt)a results in an apparently successful installation with just a few irregularities that are listed below:
+#### Installation Sequence
+Generally following the instructions in the [readme](http://registrationcenter.intel.com/irc_nas/8202/readme.txt)  results in an apparently successful installation with just a few irregularities that are listed below:
 
 ```
 [root@NEUTRINO mpss-3.6]# modprobe mic
@@ -107,7 +107,7 @@ Please restart host for flash changes to take effect
 Starting the mpss service is done via 
 
 ```
-[root@NEUTRINO master]# service mpss start
+[root@NEUTRINO ~]# service mpss start
 Loading MIC module:                                        [  OK  ]
 Starting Intel(R) MPSS:                                    [  OK  ]
 mic0: online (mode: linux image: /usr/share/mpss/boot/bzImage-knightscorner)
