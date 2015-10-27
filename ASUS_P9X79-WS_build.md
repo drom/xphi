@@ -139,7 +139,15 @@ lrwxrwxrwx    1 root     root             8 Dec 31  1969 tmp -> /var/tmp
 drwxr-xr-x   10 root     root           200 Dec 31  1969 usr                                                       
 drwxr-xr-x    8 root     root           260 Dec 31  1969 var                                                       
 ```
-Cpuinfo is *super* verbose returning 240 (!!!) identical processor descriptions:
+
+```
+[root@NEUTRINO-mic0 ~]# df
+Filesystem           1K-blocks      Used Available Use% Mounted on
+none                   6700004     57232   6642772   1% /
+none                   3941176        44   3941132   0% /dev
+```
+
+Cpuinfo is **super** verbose returning 240 (!!!) identical processor descriptions:
 
 ```
 [root@NEUTRINO-mic0 ~]# cat /proc/cpuinfo                                                                          
